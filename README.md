@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Au1Courant GitHub Page!
 
 You can use the [editor on GitHub](https://github.com/A1Courant/Au1Courant.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
